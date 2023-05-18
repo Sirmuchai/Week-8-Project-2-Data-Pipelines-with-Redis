@@ -21,7 +21,7 @@ extracts data from a CSV file, transforms it and loads it into a Postgres databa
 * Test the pipeline with a sample dataset to ensure it works correctly.
 ## Sample CSV Files
 We’ve provided a sample CSV file (customer_call_logs.csv) that you can use for this data
-pipeline. Files for this project can be downloaded from here (link).
+pipeline. Files for this project can be downloaded from here [link](https://archive.org/download/redis_project/redis_project.zip).
 ## Deliverables
 We will be expected to deliver a GitHub repository with the following:
 * A python file for the data pipeline.
